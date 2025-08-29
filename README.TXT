@@ -1,3 +1,4 @@
+I am doing the figures project
 Project "figures"
 Authors: Michael Kölling and David J. Barnes
 
@@ -8,7 +9,8 @@ This project is part of the material for the book
    David J. Barnes and Michael Kölling
    Pearson Education
 
-It is discussed in chapter 1.
+It is discussed in chapter 1. 
+
 
 This is a very simple project to demonstrate some characteristics of
 objects.
