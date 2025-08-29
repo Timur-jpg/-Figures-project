@@ -43,7 +43,8 @@ The project also demonstrates
 A good second project to look at after this is "picture", which adds a class
 to those ones in this project. That class (named "Picture") uses the shapes
 to draw a picture. It can be used to experiment with coding.
-
+ 
+Tips: if I activate show terminal in view at the top I can now save what I modify with the objects
 
 Answers: 
 
