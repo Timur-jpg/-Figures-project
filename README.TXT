@@ -43,3 +43,20 @@ The project also demonstrates
 A good second project to look at after this is "picture", which adds a class
 to those ones in this project. That class (named "Picture") uses the shapes
 to draw a picture. It can be used to experiment with coding.
+
+
+Answers: 
+
+Part 3 
+
+Question 2: 
+
+When I call moveDown twice, the object that I made visible goes down two times and if I call it three times it goes down three times. When I call makeInvisible twice, the object goes invisible. 
+
+Question 6: When I Invoke the changeColor method, and write the color into the parameter field without the quotes, it says error: cannot find symbole
+
+ How did I recreate the house image ? 
+
+ First of all, 
+ 
+ Question 9:
