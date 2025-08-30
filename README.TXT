@@ -58,6 +58,7 @@ Question 6: When I Invoke the changeColor method, and write the color into the p
 
  How did I recreate the house image ? 
 
- First of all, I made a 150 size red square and made it visible as the rest of the objects. Second of all, I added a triangle with 70 in height and 200 in wide and made it color green. Third of all, I added a square and made it size 40 and black. Fourth of all, I finilize the image by adding a circle size 90 and made it  yellow 
+ First of all, I made a 150 size red square and made it visible as the rest of the objects. Second of all, I added a triangle with 70 in height and 200 in wide and made it color green. Third of all, I added a square and made it size 40 and black. Fourth of all, I finilize the image by adding a circle size 90 and made it  yellow.
  
- Question 9:
+ Question 9: No, because I followed the image.
+
